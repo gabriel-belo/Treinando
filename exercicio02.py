@@ -23,3 +23,4 @@ dados= pd.read_csv('Tabela_Clubes.csv')
 
 print(dados.head())
 print(dados.describe())
+print(dados.dtypes)
